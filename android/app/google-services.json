@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276528750910",
+    "project_id": "loga-24ba1",
+    "storage_bucket": "loga-24ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276528750910:android:2ca73759b0e61be6998c6f",
+        "android_client_info": {
+          "package_name": "com.jameel.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276528750910-lfve30gk1u2fpusb6cshpm1p24a697b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8PL_2vZxfpy5mRXqbSqrJzSft4rJ4-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276528750910-lfve30gk1u2fpusb6cshpm1p24a697b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
